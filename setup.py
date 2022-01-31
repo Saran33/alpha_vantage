@@ -11,8 +11,8 @@ except IOError:
 
 setup(
     name='alpha_vantage',
-    version='2.3.1',
-    author='Romel J. Torres',
+    version='2.3.2',
+    author='Romel J. Torres', 'Saran Connolly'
     author_email='romel.torres@gmail.com',
     license='MIT',
     description='Python module to get stock data from the Alpha Vantage Api',
